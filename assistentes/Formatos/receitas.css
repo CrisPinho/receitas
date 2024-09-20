@@ -65,4 +65,19 @@ td p
     margin-bottom: auto;
     line-height: 2.5;}
 
+@media 
+    (max-width: 768px) {
+        img {width: 150px;
+            height: 150px;}
+        
+            h1 {font-size: 28px;}
+        
+            h2 {font-size: 22px;}
+        
+            p1 {font-size: 16px;}}
+           
+        nav button {padding: 8px 16px;
+                    font-size: 14px;} 
+
+
 
